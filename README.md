@@ -1,3 +1,4 @@
+![cover photo](png_20230520_152018_0000[65].png)
 <h1 align="center">Greetings! I'm Janhawi Paswan.</h1>
 <h3 align="center">Self-taught UI/UX Designer from India. By staying attuned to the dynamic UI/UX terrain, my objective is to provide inventive and enchanting encounters that surpass user anticipations.</h3>
 
