@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/genialjam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genialjam" height="30" width="40" /></a>
-<a href="https://instagram.com/@genialjam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@genialjam" height="30" width="40" /></a>
-<a href="https://dribbble.com/janhawi paswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="janhawi paswan" height="30" width="40" /></a>
+<a href="https://instagram.com/genialjam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@genialjam" height="30" width="40" /></a>
+<a href="https://dribbble.com/genialjam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="janhawi paswan" height="30" width="40" /></a>
 <a href="https://medium.com/@genialjam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@genialjam" height="30" width="40" /></a>
 </p>
 
