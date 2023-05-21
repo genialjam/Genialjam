@@ -11,6 +11,7 @@
 <a href="https://twitter.com/genialjam" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://instagram.com/genialjam" target="blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img align="left" alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"/>
+<a href="https://medium.com/@genialjam" target="blank"><img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo
 </p>
 
 
@@ -21,15 +22,9 @@
 </p>
 
 
-<h3 align="left">📝 Blog:</h3>
-<p align="left">
-<a href="https://medium.com/@genialjam" target="blank"><img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</p>
-
-
 <h3 align="left">🎨 Design:</h3>
 <p align="left">
-<a img align="left" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img align="left" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <a href="https://dribbble.com/genialjam" target="blank"><img align="left" alt="Dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
 </p>
@@ -39,5 +34,6 @@
 <p align="left">
 <img align="left" alt="PS-2" src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white"/>
 <img align="left" alt="PS-3" src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"/>
+</p>>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genialjam&" alt="genialjam" /></p>
