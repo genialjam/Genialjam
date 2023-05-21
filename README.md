@@ -5,13 +5,12 @@
 📝 I regularly write articles on [https://medium.com/@genialjam](https://medium.com/@genialjam)
 
 📫 How to reach me **Janhawipaswan@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/genialjam" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://instagram.com/genialjam" target="blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img align="left" alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"/>
-<a href="https://medium.com/@genialjam" target="blank"><img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo
+
 </p>
 
 
@@ -19,6 +18,12 @@
 <p align="left">
 <img align="left" alt="Google Assistant" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/>
 <img align="left" alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+
+<h3 align="left">📝 Blog:</h3>
+<p align="left">
+<a href="https://medium.com/@genialjam" target="blank"><img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </p>
 
 
@@ -34,6 +39,5 @@
 <p align="left">
 <img align="left" alt="PS-2" src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white"/>
 <img align="left" alt="PS-3" src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"/>
-</p>>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genialjam&" alt="genialjam" /></p>
