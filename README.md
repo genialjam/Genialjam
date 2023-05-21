@@ -17,26 +17,30 @@
 <img align="left" alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
 </p>
 
-<p align="left">
+
 <h3 align="left">🤖 Artificial Intelligence and Bots:</h3>
+<p align="left">
 <img align="left" alt="Google Assistant" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/></a>
 <img align="left" alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
 </p>
 
-<p align="left">
+
 <h3 align="left">📝 Blog:</h3>
+<p align="left">
 <img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-<p align="left">
+
 <h3 align="left">🎨 Design:</h3>
+<p align="left">
 <img align="left" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>
 <img align="left" alt="figma" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>
 <img align="left" alt="Dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 </p>
 
-<p align="left">
+
 <h3 align="left">🕹️ Favourite Game Consoles:</h3>
+<p align="left">
 <img align="left" alt="PS-2" src="https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white"/></a>
 <img align="left" alt="PS-3" src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"/></a>
 </p>
