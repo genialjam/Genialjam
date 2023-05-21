@@ -11,7 +11,7 @@
 <a href="https://twitter.com/genialjam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genialjam" height="30" width="40" /></a>
 <a href="https://instagram.com/genialjam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@genialjam" height="30" width="40" /></a>
 <a href="https://dribbble.com/genialjam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="janhawi paswan" height="30" width="40" /></a>
-<img align"left" alt="NodeJS" src"https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
