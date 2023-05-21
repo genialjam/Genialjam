@@ -20,7 +20,7 @@
 
 <h3 align="left">🤖 Artificial Intelligence and Bots:</h3>
 <p align="left">
-< a img align="left" alt="Google Assistant" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/></a>
+<a img align="left" alt="Google Assistant" src="https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white"/></a>
 <a img align="left" alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
 </p>
 
