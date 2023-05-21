@@ -8,10 +8,10 @@
 
 <h3 align="left">💬Let's Connect:</h3>
 <a href="https://dribbble.com/genialjam" target="blank"><img align="left" alt="Dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
-<a href="https://medium.com/@genialjam" target="blank"><img align="left" width="10%" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<a href="https://medium.com/@genialjam" target="blank"><img align="left" width="11%" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
  <a href="https://twitter.com/genialjam" target="blank"><img align="left" width="10%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/genialjam" target="blank"><img align="left" width ="9%" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img align="left"  width="10%" alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"/>
+<a href="https://instagram.com/genialjam" target="blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img align="left"  width="11%" alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"/>
 </br></br>
 
 <h3 align="left">🤖Artificial Intelligence and Bots:</h3>
