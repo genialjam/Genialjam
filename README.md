@@ -8,9 +8,10 @@
 
 <h3 align="left">💬Let's Connect:</h3>
 <a href="https://dribbble.com/genialjam" target="blank"><img align="left" alt="Dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
-<a href="https://medium.com/@genialjam" target="blank"><img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
- <a href="https://twitter.com/genialjam" target="blank"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://quora.com/profile/Janhawi-Paswan" target="blank"><img align="left" alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a>
+<a href="www.linkedin.com/in/janhawi-88881124-genialjam" target="blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="" target="blank"><img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+<a href="https://twitter.com/genialjam" target="blank"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<a href="https://quora.com/profile/Janhawi-Paswan" target="blank"><img align="left" alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
 </br></br>
 
 <h3 align="left">🤖Artificial Intelligence and Bots:</h3>
